@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfDDHwyFEZISKf8Rtyl9WKELAZduYOqk63xkZfxdM1gs9GAi3hCl7RobA6s/cR13yqm106s+RG3MVqhrwbm8CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xdani\\source\\repos\\TesteDapper\\TesteDapper\\TesteDapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xdani\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\xdani\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\xdani\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
